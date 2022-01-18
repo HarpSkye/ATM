@@ -1,0 +1,20 @@
+body {
+  background-color: darkblue; 
+  text-align: center; 
+  align-items: center;
+  color: floralwhite;
+}
+
+ .header {
+  
+}
+
+  .form {
+    text-align: center
+  }
+
+  select {
+    display: block;
+    align-items: center;
+    box-sizing: border-box;
+  }
